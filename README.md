@@ -1,2 +1,2 @@
 # forum-page
-A forum page for freeCodeCamp specifically
+A forum page that highlights the latest topics in freeCodeCamp, for freeCodeCamp specifically
